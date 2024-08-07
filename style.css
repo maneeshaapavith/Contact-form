@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'outfit';
-    background: linear-gradient(#d64df8,#e0466d);
+    background: linear-gradient(#eba165,#f1d7de);
 }
 .contact-container{
     height: 100dvh;
@@ -71,7 +71,7 @@ body{
     gap:10px;
     border: none;
     border-radius: 50px;
-    background: linear-gradient(270deg,#bb0885,#e98120);
+    background: linear-gradient(270deg,#ee9349,#e98120);
     cursor: pointer;
 }
 .contact-left button img{
